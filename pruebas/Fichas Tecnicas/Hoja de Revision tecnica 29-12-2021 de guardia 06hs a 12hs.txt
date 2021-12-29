@@ -1,0 +1,22 @@
+####################################################################################################
+Hoja de Revision tecnica 29-12-2021
+
+Puesto 7: REVISAR
+- Esta Prendida?: OK
+- Monitor: N
+- Teclado: OK
+- Mouse: OK
+- Otro: NO FUNCIONA UNO DE LOS MONITORES
+
+Puesto 8: REVISAR
+- Esta Prendida?: N
+
+Puesto apagado: debido a el puesto esta en el fondo
+
+
+Puesto Aux1: REVISAR
+- Esta Prendida?: OK
+- Monitor: OK
+- Teclado: OK
+- Mouse: OK
+- Otro: NO FUNCIONAN LOS AURICULARES
