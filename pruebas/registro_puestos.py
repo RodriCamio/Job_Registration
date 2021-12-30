@@ -14,7 +14,6 @@ while True:
         limpiar()
         print('Agregar Registro:\n')
         inicio_texto()
-        inicio_hoja_revision()
         turno = ingrese('numero de turno')
         supervisor = ingrese('nombre y apellido de supervisor')
         turno = converint(turno)
@@ -27,8 +26,9 @@ while True:
             estado_puesto = verificar_sn(f'Estado del Puesto {i}')
             if estado_puesto == 'S':
                 cargar_datos(f'\nPuesto {i}', estado_puesto)
-            elif estado_puesto == 'N':  
-                hoja_revision(f'\nPuesto {i}', 'REVISAR')
+            elif estado_puesto == 'N':
+
+                inicio_hoja_revision(f'\nPuesto {i}', 'REVISAR')  
                 cargar_datos(f'\nPuesto {i}', 'REVISAR')                
                 prendida = verificar_sn('Esta encendido el puesto')
                 hoja_revision(f'- Esta Prendida?', f'{prendida}')

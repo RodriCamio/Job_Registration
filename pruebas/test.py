@@ -1,0 +1,4 @@
+from funciones_ejemplos.variables import carpeta_para_tecnicos, ruta_carpeta_para_tecnicos
+
+print(ruta_carpeta_para_tecnicos)
+print(carpeta_para_tecnicos)

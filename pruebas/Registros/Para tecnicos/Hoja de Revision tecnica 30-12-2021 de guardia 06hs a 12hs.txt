@@ -1,0 +1,6 @@
+****************************************************************************************************
+Puesto 7,REVISAR- Esta Prendida?: OK- Monitor: N- Teclado: OK- Mouse: OK- Otro: UNO DE LOS MONITORES NO FUNCIONA****************************************************************************************************
+Puesto 8,REVISAR- Esta Prendida?: N
+Puesto apagado: debido a el puesto se encuentra en reparacion
+****************************************************************************************************
+Puesto Aux1,REVISAR- Esta Prendida?: OK- Monitor: OK- Teclado: OK- Mouse: OK- Otro: NO FUNCIONA EL AURICULAR

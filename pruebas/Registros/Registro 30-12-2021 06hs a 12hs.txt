@@ -1,0 +1,17 @@
+####################################################################################################
+Registro de Puestos 30-12-2021Turno: 1Supervisor: Patricio EstrellaHorario: 06hs a 12hs
+Puesto 1: OK
+Puesto 2: OK
+Puesto 3: OK
+Puesto 4: OK
+Puesto 5: OK
+Puesto 6: OK
+Puesto 7: REVISAR
+Puesto 8: REVISAR
+Puesto 9: OK
+Puesto 10: OK
+Puesto 11: OK
+Puesto Aux1: REVISAR
+Puesto Aux2: OK
+Puesto Supervisor: OK
+Puesto Alarmas: OK
